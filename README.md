@@ -4,7 +4,7 @@ This repository contains the server APIs for the Quiz App project. The APIs are 
 
 ## Deployment
 
-The Quiz App server APIs can be accessed at: [https://quiz-app-api-opyv.onrender.com/](https://quiz-app-api-opyv.onrender.com/)
+The Quiz App server APIs can be accessed at: [https://quiz-app-server-riry.onrender.com/](https://quiz-app-server-riry.onrender.com/)
 
 ## Usage
 
