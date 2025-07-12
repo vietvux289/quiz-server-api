@@ -9,7 +9,7 @@ const cors = require('cors');
 // const MONGO_URL = `mongodb://127.0.0.1:27017/${DB_NAME}`;
 
 // URL connect to MongoDB Atlas
-const MONGO_URL = "mongodb+srv://vietvux:vuviet@cluster0.nj5zyfd.mongodb.net/wpr-quiz?retryWrites=true&w=majority";
+const MONGO_URL = "mongodb+srv://vietvux:vuviet@cluster0.nj5zyfd.mongodb.net/wpr-quiz?retryWrites=true&w=majority"; //mongo vietanh0123
 
 app.use(express.static('public'));
 app.use(express.urlencoded({ extended: true }));
